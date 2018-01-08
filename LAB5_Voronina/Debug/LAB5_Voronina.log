@@ -1,3 +1,9 @@
-﻿  source.cpp
+﻿  volume.cpp
+c:\users\полина\desktop\lab5\lab5_voronina\volume.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\полина\desktop\lab5\lab5_voronina\volume.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+  read_write.cpp
+c:\users\полина\desktop\lab5\lab5_voronina\read_write.cpp(26): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\полина\desktop\lab5\lab5_voronina\read_write.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
   LAB5_Voronina.vcxproj -> C:\Users\Полина\Desktop\LAB5\lab5_Voronina\Debug\LAB5_Voronina.exe
   LAB5_Voronina.vcxproj -> C:\Users\Полина\Desktop\LAB5\lab5_Voronina\Debug\LAB5_Voronina.pdb (Partial PDB)

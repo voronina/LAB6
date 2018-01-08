@@ -10,10 +10,11 @@ int main()
 
 	P.read_points(f);
 	M.read_obj(f, P.P);
-
-	cout << M.O[0].T[0].V1.x << endl;
+	M.get_volume();
 
 	f.close();
+
+	M.print_results();
 
 	system("pause");
 	return 0;
